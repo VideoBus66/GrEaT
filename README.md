@@ -6,3 +6,7 @@
 #### 2025.9.26
 
 **cz**翘了算法课
+
+### 2026.4.16
+
+Can you find **cz** in [hide_and_seek.png](./hide_and_seek.png) ?
